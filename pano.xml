@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17253" appversion="6.0.2" start="node1">
+  <panorama id="node1">
+    <input height="3072" overlap="1" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3072" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510">
+      <level height="3072" preload="0" width="3072" predecode="0"/>
+      <level height="1536" preload="0" width="1536" predecode="0"/>
+      <level height="768" preload="0" width="768" predecode="0"/>
+      <level height="384" preload="1" width="384" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata customnodeid="" latitude="" longitude="" datetime="21/04/20 1:48 PM" title="" author="" copyright="" info="" tags="210420" description="" source="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" backgroundcolor="0xffffff" background="1" textcolor="0x000000" borderradius="1" border="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" enabled="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" tilt="-20.87" title="" url="{node2}" pan="-43.63" description="" target="-0.5/0.5/70.0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomin="0" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" rubberband="0" invertwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="3072" overlap="1" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3072" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510">
+      <level height="3072" preload="0" width="3072" predecode="0"/>
+      <level height="1536" preload="0" width="1536" predecode="0"/>
+      <level height="768" preload="0" width="768" predecode="0"/>
+      <level height="384" preload="1" width="384" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata customnodeid="" latitude="" longitude="" datetime="21/04/20 1:53 PM" title="" author="" copyright="" info="" tags="210420" description="" source="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" backgroundcolor="0xffffff" background="1" textcolor="0x000000" borderradius="1" border="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" enabled="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" tilt="-21.55" title="" url="{node1}" pan="-180.14" description="" target="0.5/1.0/70.0"/>
+      <hotspot id="Point02" skinid="ht_node" tilt="-19.12" title="" url="{node3}" pan="-30.48" description="" target="-5.4/-1.1/70.0"/>
+      <hotspot id="Point03" skinid="ht_node" tilt="-10.13" title="" url="{node4}" pan="-15.39" description="" target="10.3/0.2/70.0"/>
+      <hotspot id="Point04" skinid="ht_node" tilt="-9.91" title="" url="{node5}" pan="-346.83" description="" target="-13.7/-0.3/70.0"/>
+      <hotspot id="Point05" skinid="ht_node" tilt="-19.62" title="" url="{node6}" pan="-332.43" description="" target="-1.2/-0.8/70.0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomin="0" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" rubberband="0" invertwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="3072" overlap="1" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3072" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510">
+      <level height="3072" preload="0" width="3072" predecode="0"/>
+      <level height="1536" preload="0" width="1536" predecode="0"/>
+      <level height="768" preload="0" width="768" predecode="0"/>
+      <level height="384" preload="1" width="384" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata customnodeid="" latitude="" longitude="" datetime="21/04/16 8:10 PM" title="" author="" copyright="" info="" tags="210420" description="" source="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" backgroundcolor="0xffffff" background="1" textcolor="0x000000" borderradius="1" border="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" enabled="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" tilt="-16.22" title="" url="{node2}" pan="-117.37" description="" target="0.0/0.0/70.0"/>
+      <hotspot id="Point02" skinid="ht_node" tilt="-12.56" title="" url="{node6}" pan="-156.26" description="" target="0.0/0.0/70.0"/>
+      <hotspot id="Point03" skinid="ht_node" tilt="-11.36" title="" url="{node5}" pan="-191.74" description="" target="-12.9/0.6/70.0"/>
+      <hotspot id="Point04" skinid="ht_node" tilt="-17.66" title="" url="{node4}" pan="-214.99" description="" target="10.0/-0.1/70.0"/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-8.11" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-88.97" description="" target="_blank"/>
+      <hotspot id="Point07" skinid="ht_image" tilt="-3" title="Robi Walters x Aston Martin Residence" url="images/Robi Walters x Aston Martin Residence.jpg" pan="-53.56" description="" target=""/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-6.9" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-53.55" description="" target="_blank"/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-2.22" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-21.81" description="" target="_blank"/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-5.99" title="Can This Be Love" url="" pan="-21.82" description="Mixed Pink&amp;Blue&#xa;Collage 4ftx4ft&#xa;122cmx122cm&#xa;Plywod Recycled Card Spray paint Miri Card&#xa;Framed&#xa;July2017&#xa;&#xa;gallery@robiwlaters.com&#xa;" target=""/>
+      <hotspot id="Point08" skinid="ht_image" tilt="1.51" title="Can This Be Love" url="images/Robi_Walters_CanThisBeLove_MixedPink&amp;Blue_Collage_4ftx4ft_122cmx122cm__PlywodRecycledCardSpraypaintMiriCard_Framed_July2017_.JPG" pan="-21.75" description="" target=""/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-10.63" title="Robi Walters x Aston Martin Residence" url="" pan="-53.47" description="gallery@robiwlaters.com&#xa;" target=""/>
+      <hotspot id="Point08" skinid="ht_image" tilt="1.29" title="Elevation" url="images/Robi_Walters_Elevation_WhitePinkBlue_6ftx4ft_PlywodRecycledCardSpraypaintMiriCard_2021.jpg" pan="-352.02" description="" target=""/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-3.2" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-352.02" description="" target="_blank"/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-7.2" title="Elevation" url="" pan="-352.03" description="White Pink&amp;Blue&#xa;6ftx4ft&#xa;Plywod Recycled Card Spray paint Miri Card&#xa;2021&#xa;&#xa;gallery@robiwlaters.com&#xa;" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomin="0" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" rubberband="0" invertwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="3072" overlap="1" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3072" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510">
+      <level height="3072" preload="0" width="3072" predecode="0"/>
+      <level height="1536" preload="0" width="1536" predecode="0"/>
+      <level height="768" preload="0" width="768" predecode="0"/>
+      <level height="384" preload="1" width="384" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata customnodeid="" latitude="" longitude="" datetime="21/04/16 8:14 PM" title="" author="" copyright="" info="" tags="210420" description="" source="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" backgroundcolor="0xffffff" background="1" textcolor="0x000000" borderradius="1" border="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" enabled="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" tilt="-15.71" title="" url="{node3}" pan="-148.95" description="" target="-5.6/-0.5/70.0"/>
+      <hotspot id="Point02" skinid="ht_node" tilt="-10.61" title="" url="{node2}" pan="-145.83" description="" target="0.0/0.0/70.0"/>
+      <hotspot id="Point03" skinid="ht_node" tilt="-10.78" title="" url="{node6}" pan="-172.97" description="" target="0.0/0.0/70.0"/>
+      <hotspot id="Point04" skinid="ht_node" tilt="-12.3" title="" url="{node5}" pan="-207.02" description="" target="-13.7/0.8/70.0"/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-0.05" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-37.55" description="" target="_blank"/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-3.77" title="Cherish The Day" url="" pan="-37.55" description="Yellow&#xa;2ftx2ft&#xa;Plywod Recycled Card Spray paint Miri Card&#xa;Collage&#xa;Jan 2017&#xa;&#xa;gallery@robiwlaters.com&#xa;" target=""/>
+      <hotspot id="Point08" skinid="ht_image" tilt="3.65" title="Cherish The Day" url="images/Robi_Walters_CherishTheDay_Yellow_2ftx2ft_PlywodRecycledCardSpraypaintMiriCard_Collage_Jan_2017.jpg" pan="-37.49" description="" target=""/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-7.54" title="Ace Iz Wild" url="" pan="-5.97" description="Orange Red Blue Yellow&#xa;4ftx4ft&#xa;Plywod Recycled Card Spray paint Miri Card&#xa;April 2018&#xa;&#xa;gallery@robiwlaters.com&#xa;" target=""/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-3.86" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-5.95" description="" target="_blank"/>
+      <hotspot id="Point08" skinid="ht_image" tilt="-0.22" title="Ace Iz Wild" url="images/Robi_Walters_AceIzWild_OrangeRedBlueYellow_4ftx4ft_PlywodRecycledCardSpraypaintMiriCard_April2018.JPG" pan="-5.99" description="" target=""/>
+      <hotspot id="Point08" skinid="ht_image" tilt="-0.76" title="The Choice" url="images/Robi_Walters_TheChoice_WhiteintoRed__4ftx4ft_PlywodRecycledCardSpraypaintMiriCard__Jan_2017_.jpg" pan="-325.56" description="" target=""/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-4.04" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-325.56" description="" target="_blank"/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-7.23" title="The Choice" url="" pan="-325.54" description="White into Red&#xa;4ftx4ft&#xa;Plywod Recycled Card Spray paint Miri Card&#xa;Jan 2017&#xa;&#xa;gallery@robiwlaters.com&#xa;" target=""/>
+      <hotspot id="Point08" skinid="ht_image" tilt="2.95" title="Different Now" url="images/Robi_Walters_DifferentNow_YellowPinkPurple_Collage_61cmx61cm_2ftx2ft_PlywodRecycledCardSpraypaintMiriCard_2017_Sep.jpg" pan="-284.75" description="" target=""/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-0.19" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-284.7" description="" target="_blank"/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-3.14" title="Different Now" url="" pan="-284.64" description="Yellow Pink Purple&#xa;Collage&#xa;61cm x 61cm 2ft x 2ft&#xa;Plywod Recycled Card Spray paint Miri Card&#xa;Sep 2017&#xa;&#xa;gallery@robiwlaters.com&#xa;" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomin="0" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" rubberband="0" invertwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="3072" overlap="1" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3072" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510">
+      <level height="3072" preload="0" width="3072" predecode="0"/>
+      <level height="1536" preload="0" width="1536" predecode="0"/>
+      <level height="768" preload="0" width="768" predecode="0"/>
+      <level height="384" preload="1" width="384" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata customnodeid="" latitude="" longitude="" datetime="21/04/20 1:57 PM" title="" author="" copyright="" info="" tags="210420" description="" source="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" backgroundcolor="0xffffff" background="1" textcolor="0x000000" borderradius="1" border="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" enabled="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" tilt="-23.55" title="" url="{node4}" pan="-153.1" description="" target="10.1/0.2/70.0"/>
+      <hotspot id="Point02" skinid="ht_node" tilt="-15.51" title="" url="{node3}" pan="-208.98" description="" target="-5.7/-0.1/70.0"/>
+      <hotspot id="Point03" skinid="ht_node" tilt="-17.77" title="" url="{node6}" pan="-255.36" description="" target="0.0/0.0/70.0"/>
+      <hotspot id="Point04" skinid="ht_node" tilt="-12.99" title="" url="{node2}" pan="-237.6" description="" target="0.0/0.0/70.0"/>
+      <hotspot id="Point05" skinid="ht_node" tilt="-5.85" title="" url="{node1}" pan="-240.54" description="" target="0.0/0.0/70.0"/>
+      <hotspot id="Point08" skinid="ht_image" tilt="2.77" title="Pure Mind" url="images/Robi_Walters_Pure_Mind_MixedGreens_7ftx7ft_PlywodRecycledCardSpraypaintMiriCard_2019_.jpg" pan="-48.45" description="" target=""/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-1.97" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-48.3" description="" target="_blank"/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-6.69" title="Pure Mind" url="" pan="-48.25" description="Mixed Greens&#xa;7ft x 7ft&#xa;Plywod Recycled Card Spray paint Miri Card&#xa;2019&#xa;&#xa;gallery@robiwlaters.com&#xa;" target=""/>
+      <hotspot id="Point08" skinid="ht_image" tilt="0.01" title="Spirits Up Above" url="images/RobiWalters_SpiritsUpAbove_MixedGoldandCoralOrange_RecycledCardMiriCardSprayPaintGlueOnplywood_2021_5ftx5ft.jpg" pan="-0.35" description="" target=""/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-3.36" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-0.36" description="" target="_blank"/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-6.9" title="Spirits Up Above" url="" pan="-0.33" description="Mixed Gold and Coral Orange&#xa;5ftx5ft&#xa;Recycled Card Miri Card Spray Paint Glue On plywood&#xa;2021&#xa;&#xa;gallery@robiwlaters.com&#xa;" target=""/>
+      <hotspot id="Point08" skinid="ht_image" tilt="1.61" title="Have A Nice Day" url="images/Robi_Walters_HaveANiceDay_WhiteGreenFade__4ftx4ft_PlywodRecycledCardSpraypaintMiriCard_2018_Collage.jpg" pan="-323.02" description="" target=""/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-2.15" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-323.05" description="" target="_blank"/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-6.1" title="Have A Nice Day" url="" pan="-323.04" description="WhiteGreenFade&#xa;4ftx4ft&#xa;Collage Plywod Recycled Card Spray paint Miri Card&#xa;2018&#xa;&#xa;gallery@robiwlaters.com&#xa;" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomin="0" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" rubberband="0" invertwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="3072" overlap="1" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3072" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510">
+      <level height="3072" preload="0" width="3072" predecode="0"/>
+      <level height="1536" preload="0" width="1536" predecode="0"/>
+      <level height="768" preload="0" width="768" predecode="0"/>
+      <level height="384" preload="1" width="384" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata customnodeid="" latitude="" longitude="" datetime="21/04/20 2:02 PM" title="" author="" copyright="" info="" tags="210420" description="" source="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" backgroundcolor="0xffffff" background="1" textcolor="0x000000" borderradius="1" border="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" enabled="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point02" skinid="ht_node" tilt="-19.96" title="" url="{node2}" pan="-285.47" description="" target="0.0/0.0/70.0"/>
+      <hotspot id="Point03" skinid="ht_node" tilt="-24.5" title="" url="{node3}" pan="-222.34" description="" target="-5.7/-0.5/70.0"/>
+      <hotspot id="Point04" skinid="ht_node" tilt="-17.22" title="" url="{node4}" pan="-155.85" description="" target="10.1/-0.0/70.0"/>
+      <hotspot id="Point05" skinid="ht_node" tilt="-21.33" title="" url="{node5}" pan="-101.16" description="" target="-13.1/0.4/70.0"/>
+      <hotspot id="Point01" skinid="ht_node" tilt="-7.23" title="" url="{node1}" pan="-288.64" description="" target="0.0/0.0/70.0"/>
+      <hotspot id="Point08" skinid="ht_image" tilt="2.46" title="Have A Nice Day" url="images/Robi_Walters_HaveANiceDay_WhiteGreenFade__4ftx4ft_PlywodRecycledCardSpraypaintMiriCard_2018_Collage.jpg" pan="-48.09" description="" target=""/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-1.33" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-48.09" description="" target="_blank"/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-5.27" title="Have A Nice Day" url="" pan="-48.08" description="WhiteGreenFade&#xa;4ftx4ft&#xa;Collage Plywod Recycled Card Spray paint Miri Card&#xa;2018&#xa;&#xa;gallery@robiwlaters.com&#xa;" target=""/>
+      <hotspot id="Point08" skinid="ht_image" tilt="0.11" title="Keep The Fire Burning" url="images/RobiWalters_Keepthefireburning_MixedReds_5ftx5ft_PlywodRecycledCardSpraypaintMiriCard_2021_.jpg" pan="-16.16" description="" target=""/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-3.91" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-16.3" description="" target="_blank"/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-7.93" title="Keep The Fire Burning" url="" pan="-16.41" description="Mixed Reds&#xa;5ftx5ft&#xa;Plywod Recycled Card Spray paint Miri Card&#xa;2021&#xa;&#xa;gallery@robiwlaters.com&#xa;" target=""/>
+      <hotspot id="Point08" skinid="ht_image" tilt="2.14" title="A Case Of You" url="images/Robi_Walters_ACaseOfYou_PurpleGreen_2ftx2ft_61cmx61cm_PlywodRecycledCardSpraypaintMiriCard_2019.JPG" pan="-340.02" description="" target=""/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-0.01" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-340.02" description="" target="_blank"/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-2.26" title="A Case Of You" url="" pan="-340.04" description="Purple Green&#xa;2ftx2ft 61cm x 61cm&#xa;Plywod Recycled Card Spray paint Miri Card&#xa;2019&#xa;&#xa;gallery@robiwlaters.com&#xa;" target=""/>
+      <hotspot id="Point08" skinid="ht_image" tilt="0.3" title="Juks We A Juk" url="images/Robi_Walters_JuksWeAJuk_OrangeMixed_4ftx4ft_PlywodRecycledCardSpraypaintMiriCard_Jan_2017_.jpg" pan="-328.63" description="" target=""/>
+      <hotspot id="Point05" skinid="ht_url" tilt="-2.81" title="Robi Walters Gallery" url="http://www.robiwalters.com/" pan="-328.62" description="" target="_blank"/>
+      <hotspot id="Point06" skinid="ht_info" tilt="-5.71" title="Juks We A Juk" url="" pan="-328.68" description="Orange Mixed&#xa;4ftx4ft&#xa;Plywod Recycled Card Spray paint Miri Card&#xa;Jan 2017&#xa;&#xa;gallery@robiwlaters.com&#xa;" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomin="0" zoomfov="20" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" rubberband="0" invertwheel="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata customnodeid="" latitude="" longitude="" datetime="" title="" author="" copyright="" info="" tags="" description="" source="" comment=""/>
+  </masternode>
+</tour>
