@@ -83,9 +83,9 @@
       <hotspot skinid="ht_info" url="" pan="-46.87" target="" description="60” x 72” Oil on Canvas&#xa;2021&#xa;Price: $ 18,000 &#xa;" id="Point06" title="Retail Therapy" tilt="-6.21"/>
       <hotspot skinid="ht_image" url="images/Michele_Utley_Voigt_LATE BLOOMER .png" pan="-333.53" target="" description="" id="Point08" title="Late Bloomer" tilt="1.39"/>
       <hotspot skinid="ht_info" url="" pan="-333.58" target="" description="48” x 48” Oil on Canvas&#xa;In white wood floater frame &#xa;2022 &#xa;Price: $8,000" id="Point06" title="Late Bloomer" tilt="-3.39"/>
-      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-46.82" target="_blank" description="" id="Point09" title="CONTEMPORARY ART PROJECTS USA" tilt="-10.37"/>
-      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-6.11" target="_blank" description="" id="Point09" title="CONTEMPORARY ART PROJECTS USA" tilt="-6.34"/>
-      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-333.63" target="_blank" description="" id="Point09" title="CONTEMPORARY ART PROJECTS USA" tilt="-7.69"/>
+      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-46.82" target="_blank" description="" id="Point09" title="ASTON MARTIN EXHIBITION" tilt="-10.37"/>
+      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-6.11" target="_blank" description="" id="Point09" title="ASTON MARTIN EXHIBITION" tilt="-6.34"/>
+      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-333.63" target="_blank" description="" id="Point09" title="ASTON MARTIN EXHIBITION" tilt="-7.69"/>
     </hotspots>
     <media/>
     <transition blendtime="1" zoomfov="20" zoomout="0" zoomin="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" type="crossdissolve" zoomoutpause="1"/>
@@ -122,10 +122,10 @@
       <hotspot skinid="ht_info" url="" pan="-335.68" target="" description="60 x 48” Oil on Canvas&#xa;In white floater frame&#xa;2019 &#xa;Price: $8,000 " id="Point10" title="Shattered Glass" tilt="-5.56"/>
       <hotspot skinid="ht_image" url="images/Michele_Utley_Voigt_aPOPcalypse copy.jpg" pan="-299.32" target="" description="" id="Point11" title="aPOPcalypse" tilt="-3.47"/>
       <hotspot skinid="ht_info" url="" pan="-299.24" target="" description="60” x 48” Oil on Belgian Linen&#xa;In white floater frame&#xa;2019 &#xa;Price: $8,000 " id="Point12" title="aPOPcalypse" tilt="-7.25"/>
-      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-51.29" target="_blank" description="" id="Point09" title="CONTEMPORARY ART PROJECTS USA" tilt="-6.9"/>
-      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-13.08" target="_blank" description="" id="Point09" title="CONTEMPORARY ART PROJECTS USA" tilt="-13.15"/>
-      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-335.74" target="_blank" description="" id="Point09" title="CONTEMPORARY ART PROJECTS USA" tilt="-9.18"/>
-      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-299.19" target="_blank" description="" id="Point09" title="CONTEMPORARY ART PROJECTS USA" tilt="-10.78"/>
+      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-51.29" target="_blank" description="" id="Point09" title="ASTON MARTIN EXHIBITION" tilt="-6.9"/>
+      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-13.08" target="_blank" description="" id="Point09" title="ASTON MARTIN EXHIBITION" tilt="-13.15"/>
+      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-335.74" target="_blank" description="" id="Point09" title="ASTON MARTIN EXHIBITION" tilt="-9.18"/>
+      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-299.19" target="_blank" description="" id="Point09" title="ASTON MARTIN EXHIBITION" tilt="-10.78"/>
     </hotspots>
     <media/>
     <transition blendtime="1" zoomfov="20" zoomout="0" zoomin="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" type="crossdissolve" zoomoutpause="1"/>
@@ -161,9 +161,9 @@
       <hotspot skinid="ht_info" url="" pan="-6.67" target="" description="36” x 48” Oil on Canvas&#xa;In white wood floater frame&#xa;2022 &#xa;Price: $7,500" id="Point09" title="Triplicate Service" tilt="-1.58"/>
       <hotspot skinid="ht_image" url="images/Michele_Utley_Voigt_DIRTY_LAUNDRY.png" pan="-331.29" target="" description="" id="Point10" title="Dirty Laundry" tilt="-4.91"/>
       <hotspot skinid="ht_info" url="" pan="-331.2" target="" description="72” x 72” Oil on Canvas&#xa;In white floater frame&#xa;2020 &#xa;Price: $17,000 " id="Point11" title="Dirty Laundry" tilt="-8.03"/>
-      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-47.25" target="_blank" description="" id="Point09" title="CONTEMPORARY ART PROJECTS USA" tilt="-13.02"/>
-      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-6.61" target="_blank" description="" id="Point09" title="CONTEMPORARY ART PROJECTS USA" tilt="-4.7"/>
-      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-331.11" target="_blank" description="" id="Point09" title="CONTEMPORARY ART PROJECTS USA" tilt="-11.14"/>
+      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-47.25" target="_blank" description="" id="Point09" title="ASTON MARTIN EXHIBITION" tilt="-13.02"/>
+      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-6.61" target="_blank" description="" id="Point09" title="ASTON MARTIN EXHIBITION" tilt="-4.7"/>
+      <hotspot skinid="ht_url" url="https://www.mauvisual.com/aston-martin-exhibition" pan="-331.11" target="_blank" description="" id="Point09" title="ASTON MARTIN EXHIBITION" tilt="-11.14"/>
     </hotspots>
     <media/>
     <transition blendtime="1" zoomfov="20" zoomout="0" zoomin="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" type="crossdissolve" zoomoutpause="1"/>
