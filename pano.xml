@@ -1,226 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node1" apprev="17253" appversion="6.0.2">
+<tour appversion="6.0.2" start="node1" apprev="17253">
   <panorama id="node1">
-    <input levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3072" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" width="3072">
-      <level predecode="0" height="3072" preload="0" width="3072"/>
-      <level predecode="0" height="1536" preload="0" width="1536"/>
-      <level predecode="0" height="768" preload="0" width="768"/>
-      <level predecode="1" height="384" preload="1" width="384"/>
+    <input levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3072" height="3072" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level preload="0" predecode="0" width="3072" height="3072"/>
+      <level preload="0" predecode="0" width="1536" height="1536"/>
+      <level preload="0" predecode="0" width="768" height="768"/>
+      <level preload="1" predecode="1" width="384" height="384"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start fov="70" pan="0" projection="4" tilt="0"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" fovfisheye="360" tilt="90"/>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
     </view>
-    <userdata customnodeid="" latitude="" author="" comment="" title="" info="" description="" source="" tags="210420" copyright="" longitude="" datetime="21/04/20 1:48 PM"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label borderradius="1" border="1" textalpha="1" background="1" enabled="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180"/>
-      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
-      <hotspot url="{node2}" id="Point01" title="" pan="-44.11" skinid="ht_node" description="" target="-0.5/0.5/70.0" tilt="-19.77"/>
+    <userdata tags="210420" customnodeid="" latitude="" copyright="" info="" source="" description="" longitude="" datetime="21/04/20 1:48 PM" comment="" title="" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" enabled="1" borderradius="1" backgroundalpha="1" wordwrap="1" background="1" width="180" height="20" backgroundcolor="0xffffff" border="1" textcolor="0x000000" borderalpha="1" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-19.77" skinid="ht_node" pan="-44.11" id="Point01" target="-0.5/0.5/70.0" description="" title="" url="{node2}"/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" blendtime="1" zoomout="0" softedge="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control hideabout="0" sensitivity="8" simulatemass="1" contextfullscreen="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+    <transition zoomspeed="2" softedge="0" blendcolor="0x000000" enabled="1" blendtime="1" zoomout="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedkeyboard="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
   </panorama>
   <panorama id="node2">
-    <input levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3072" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" width="3072">
-      <level predecode="0" height="3072" preload="0" width="3072"/>
-      <level predecode="0" height="1536" preload="0" width="1536"/>
-      <level predecode="0" height="768" preload="0" width="768"/>
-      <level predecode="1" height="384" preload="1" width="384"/>
+    <input levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3072" height="3072" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level preload="0" predecode="0" width="3072" height="3072"/>
+      <level preload="0" predecode="0" width="1536" height="1536"/>
+      <level preload="0" predecode="0" width="768" height="768"/>
+      <level preload="1" predecode="1" width="384" height="384"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start fov="70" pan="0" projection="4" tilt="0"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" fovfisheye="360" tilt="90"/>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
     </view>
-    <userdata customnodeid="" latitude="" author="" comment="" title="" info="" description="" source="" tags="210420" copyright="" longitude="" datetime="21/04/20 1:53 PM"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label borderradius="1" border="1" textalpha="1" background="1" enabled="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180"/>
-      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
-      <hotspot url="{node1}" id="Point01" title="" pan="-180.14" skinid="ht_node" description="" target="0.5/1.0/70.0" tilt="-21.55"/>
-      <hotspot url="{node3}" id="Point02" title="" pan="-30.48" skinid="ht_node" description="" target="-5.4/-1.1/70.0" tilt="-19.12"/>
-      <hotspot url="{node4}" id="Point03" title="" pan="-15.39" skinid="ht_node" description="" target="10.3/0.2/70.0" tilt="-10.13"/>
-      <hotspot url="{node5}" id="Point04" title="" pan="-346.83" skinid="ht_node" description="" target="-13.7/-0.3/70.0" tilt="-9.91"/>
-      <hotspot url="{node6}" id="Point05" title="" pan="-332.43" skinid="ht_node" description="" target="-1.2/-0.8/70.0" tilt="-19.62"/>
+    <userdata tags="210420" customnodeid="" latitude="" copyright="" info="" source="" description="" longitude="" datetime="21/04/20 1:53 PM" comment="" title="" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" enabled="1" borderradius="1" backgroundalpha="1" wordwrap="1" background="1" width="180" height="20" backgroundcolor="0xffffff" border="1" textcolor="0x000000" borderalpha="1" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-21.55" skinid="ht_node" pan="-180.14" id="Point01" target="0.5/1.0/70.0" description="" title="" url="{node1}"/>
+      <hotspot tilt="-19.12" skinid="ht_node" pan="-30.48" id="Point02" target="-5.4/-1.1/70.0" description="" title="" url="{node3}"/>
+      <hotspot tilt="-10.13" skinid="ht_node" pan="-15.39" id="Point03" target="10.3/0.2/70.0" description="" title="" url="{node4}"/>
+      <hotspot tilt="-9.91" skinid="ht_node" pan="-346.83" id="Point04" target="-13.7/-0.3/70.0" description="" title="" url="{node5}"/>
+      <hotspot tilt="-19.62" skinid="ht_node" pan="-332.43" id="Point05" target="-1.2/-0.8/70.0" description="" title="" url="{node6}"/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" blendtime="1" zoomout="0" softedge="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control hideabout="0" sensitivity="8" simulatemass="1" contextfullscreen="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+    <transition zoomspeed="2" softedge="0" blendcolor="0x000000" enabled="1" blendtime="1" zoomout="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedkeyboard="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
   </panorama>
   <panorama id="node3">
-    <input levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3072" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" width="3072">
-      <level predecode="0" height="3072" preload="0" width="3072"/>
-      <level predecode="0" height="1536" preload="0" width="1536"/>
-      <level predecode="0" height="768" preload="0" width="768"/>
-      <level predecode="1" height="384" preload="1" width="384"/>
+    <input levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3072" height="3072" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level preload="0" predecode="0" width="3072" height="3072"/>
+      <level preload="0" predecode="0" width="1536" height="1536"/>
+      <level preload="0" predecode="0" width="768" height="768"/>
+      <level preload="1" predecode="1" width="384" height="384"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start fov="70" pan="0" projection="4" tilt="0"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" fovfisheye="360" tilt="90"/>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
     </view>
-    <userdata customnodeid="" latitude="" author="" comment="" title="" info="" description="" source="" tags="210420" copyright="" longitude="" datetime="21/04/16 8:10 PM"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label borderradius="1" border="1" textalpha="1" background="1" enabled="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180"/>
-      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
-      <hotspot url="{node2}" id="Point01" title="" pan="-104.41" skinid="ht_node" description="" target="0.0/0.0/70.0" tilt="-16.5"/>
-      <hotspot url="{node6}" id="Point02" title="" pan="-142.9" skinid="ht_node" description="" target="0.0/0.0/70.0" tilt="-11.79"/>
-      <hotspot url="{node5}" id="Point03" title="" pan="-177.51" skinid="ht_node" description="" target="-12.9/0.6/70.0" tilt="-9.88"/>
-      <hotspot url="{node4}" id="Point04" title="" pan="-202.55" skinid="ht_node" description="" target="10.0/-0.1/70.0" tilt="-15.52"/>
-      <hotspot url="" id="Point05" title="INTERSPECIES" pan="-76.04" skinid="ht_info" description="Acerca de Salvar a los chimpancés:&#xa;&#xa;Con sede en Florida, Save the Chimps es uno de los santuarios de chimpancés más grandes del mundo, cuya misión es brindar refugio y atención ejemplar a los chimpancés necesitados. Save the Chimps ofrece atención de por vida a chimpancés rescatados de laboratorios de investigación, el comercio de mascotas y la industria del entretenimiento. www.savethechimps.org.&#xa;&#xa;Colaboración artística entre los B-52 y Save The Chimps:&#xa;&#xa;Los miembros de la banda Kate Pierson , Fred Schneider y Cindy Wilson colaboraron con Save The Chimps y artistas chimpancés del refugio de 150 acres en Florida para crear una colección de pinturas basadas en los colores vivos de las portadas de los álbumes más populares de la banda. Kate y sus compañeros de banda pintan los lienzos base con varios colores de fondo y seleccionan las combinaciones de colores para que los chimpancés terminen cada obra de arte con su propio estilo de pincelada durante su tiempo libre. Cada pieza de la nueva colección de obras lleva el nombre de una canción o letra de B-52 y está firmada por los miembros de la banda." target="" tilt="-3.34"/>
-      <hotspot url="images/Andy &amp; Tootie (proofsheet), 30x38.4, photo_ Bystedt, paint_ chimp Tootie, 2022.JPG" id="Point07" title="ANDY &amp; TOOTIE" pan="-38.92" skinid="ht_image" description="" target="" tilt="0.22"/>
-      <hotspot url="" id="Point06" title="ANDY, ANGIE &amp; SEPTEMBER" pan="-356.6" skinid="ht_info" description="Andy, Angie &amp; September, &#xa;18x18, photo Bystedt, &#xa;paint chimps Angie &amp; September, 2022" target="" tilt="0.88"/>
-      <hotspot url="images/Andy, Angie &amp; September, 18x18, photo_ Bystedt, paint_ chimps Angie &amp; September, 2022.JPG" id="Point08" title="ANDY, ANGIE &amp; SEPTEMBER" pan="-356.68" skinid="ht_image" description="" target="" tilt="3.83"/>
-      <hotspot url="" id="Point06" title="ANDY &amp; TOOTIE" pan="-38.94" skinid="ht_info" description="Andy &amp; Tootie (proofsheet), &#xa;30x38.4, photo Bystedt, &#xa;paint chimp Tootie, 2022&#xa;&#xa;" target="" tilt="-3.01"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="ANDY &amp; TOOTIE" pan="-38.97" skinid="ht_url" description="" target="_blank" tilt="-6.18"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="ANDY, ANGIE &amp; SEPTEMBER" pan="-356.57" skinid="ht_url" description="" target="_blank" tilt="-2.18"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point09" title="SAVE THE CHIMPS" pan="-76.06" skinid="ht_url" description="" target="_blank" tilt="-6.86"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point10" title="ANDY &amp; SEPTEMBER" pan="-324.63" skinid="ht_url" description="" target="_blank" tilt="-2.86"/>
-      <hotspot url="" id="Point11" title="ANDY &amp; SEPTEMBER" pan="-324.54" skinid="ht_info" description="Andy &amp; September, 18x18, &#xa;photo Bystedt, &#xa;paint chimp September, 2022" target="" tilt="0.85"/>
-      <hotspot url="images/Andy &amp; September, 18x18, photo_ Bystedt, paint_ chimp September, 2022.JPG" id="Point08" title="ANDY &amp; SEPTEMBER" pan="-324.57" skinid="ht_image" description="" target="" tilt="4.21"/>
+    <userdata tags="210420" customnodeid="" latitude="" copyright="" info="" source="" description="" longitude="" datetime="21/04/16 8:10 PM" comment="" title="" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" enabled="1" borderradius="1" backgroundalpha="1" wordwrap="1" background="1" width="180" height="20" backgroundcolor="0xffffff" border="1" textcolor="0x000000" borderalpha="1" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-16.5" skinid="ht_node" pan="-104.41" id="Point01" target="0.0/0.0/70.0" description="" title="" url="{node2}"/>
+      <hotspot tilt="-11.79" skinid="ht_node" pan="-142.9" id="Point02" target="0.0/0.0/70.0" description="" title="" url="{node6}"/>
+      <hotspot tilt="-9.88" skinid="ht_node" pan="-177.51" id="Point03" target="-12.9/0.6/70.0" description="" title="" url="{node5}"/>
+      <hotspot tilt="-15.52" skinid="ht_node" pan="-202.55" id="Point04" target="10.0/-0.1/70.0" description="" title="" url="{node4}"/>
+      <hotspot tilt="-0.8" skinid="ht_image" pan="-39.64" id="Point07" target="" description="" title="Armageddon Allegra" url="images/ArmageddonAllegra.jpg"/>
+      <hotspot tilt="-6.47" skinid="ht_info" pan="-359.47" id="Point06" target="" description="José Bedia&#xa;Sr. De la perseverancia, 2013&#xa;Acrylic on canvas&#xa;70 1/8 x 70 1/8 in&#xa;178 x 178 cm&#xa;&#xa;" title="Sr. De la perseverancia" url=""/>
+      <hotspot tilt="-3.52" skinid="ht_image" pan="-359.48" id="Point08" target="" description="" title="Sr. De la perseverancia" url="images/image (20).jpg"/>
+      <hotspot tilt="-3.68" skinid="ht_info" pan="-39.66" id="Point06" target="" description="Alice Aycock&#xa;Armageddon Allegra, 2017&#xa;Inkjet print and hand-painted watercolor on paper&#xa;23 3/4 x 35 3/4 in&#xa;60.3 x 90.8 cm&#xa;(Unframed dimensions)&#xa;(AA16 43)&#xa;" title="Armageddon Allegra" url=""/>
+      <hotspot tilt="-6.43" skinid="ht_url" pan="-39.67" id="Point05" target="_blank" description="" title="Armageddon Allegra" url="https://www.snitzer.com/"/>
+      <hotspot tilt="-9.41" skinid="ht_url" pan="-359.49" id="Point05" target="_blank" description="" title="Sr. De la perseverancia" url="https://www.snitzer.com/"/>
+      <hotspot tilt="-6.61" skinid="ht_url" pan="-75.97" id="Point05" target="_blank" description="" title="&quot;Mythic Reveries&quot;" url="https://www.snitzer.com/"/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" blendtime="1" zoomout="0" softedge="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control hideabout="0" sensitivity="8" simulatemass="1" contextfullscreen="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+    <transition zoomspeed="2" softedge="0" blendcolor="0x000000" enabled="1" blendtime="1" zoomout="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedkeyboard="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
   </panorama>
   <panorama id="node4">
-    <input levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3072" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" width="3072">
-      <level predecode="0" height="3072" preload="0" width="3072"/>
-      <level predecode="0" height="1536" preload="0" width="1536"/>
-      <level predecode="0" height="768" preload="0" width="768"/>
-      <level predecode="1" height="384" preload="1" width="384"/>
+    <input levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3072" height="3072" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level preload="0" predecode="0" width="3072" height="3072"/>
+      <level preload="0" predecode="0" width="1536" height="1536"/>
+      <level preload="0" predecode="0" width="768" height="768"/>
+      <level preload="1" predecode="1" width="384" height="384"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start fov="70" pan="0" projection="4" tilt="0"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" fovfisheye="360" tilt="90"/>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
     </view>
-    <userdata customnodeid="" latitude="" author="" comment="" title="" info="" description="" source="" tags="210420" copyright="" longitude="" datetime="21/04/16 8:14 PM"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label borderradius="1" border="1" textalpha="1" background="1" enabled="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180"/>
-      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
-      <hotspot url="{node3}" id="Point01" title="" pan="-158.55" skinid="ht_node" description="" target="-5.6/-0.5/70.0" tilt="-15.96"/>
-      <hotspot url="{node2}" id="Point02" title="" pan="-152.9" skinid="ht_node" description="" target="0.0/0.0/70.0" tilt="-11.03"/>
-      <hotspot url="{node6}" id="Point03" title="" pan="-179.96" skinid="ht_node" description="" target="0.0/0.0/70.0" tilt="-9.9"/>
-      <hotspot url="{node5}" id="Point04" title="" pan="-213.21" skinid="ht_node" description="" target="-13.7/0.8/70.0" tilt="-11.72"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="ANDY &amp; JB" pan="-49.73" skinid="ht_url" description="" target="_blank" tilt="-2.74"/>
-      <hotspot url="" id="Point06" title="ANDY &amp; JB" pan="-49.72" skinid="ht_info" description="Andy &amp; JB, &#xa;18x18, photo Bystedt, &#xa;paint chimp JB, 2022&#xa;&#xa;" target="" tilt="0.18"/>
-      <hotspot url="images/Andy &amp; JB, 18x18, photo_ Bystedt, paint_ chimp JB, 2022.JPG" id="Point07" title="ANDY &amp; JB" pan="-49.71" skinid="ht_image" description="" target="" tilt="3.06"/>
-      <hotspot url="images/Andy &amp; Angie, 18x18, photo_ Bystedt, paint_ chimp Angie, 2022 .JPG" id="Point07" title="ANDY &amp; ANGIE" pan="-15.1" skinid="ht_image" description="" target="" tilt="3.22"/>
-      <hotspot url="" id="Point06" title="ANDY &amp; ANGIE" pan="-15.08" skinid="ht_info" description="Andy &amp; Angie, 18x18, &#xa;photo Bystedt, &#xa;paint chimp Angie, 2022 &#xa;&#xa;" target="" tilt="0.54"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="ANDY &amp; ANGIE" pan="-15.07" skinid="ht_url" description="" target="_blank" tilt="-2.09"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="ANDY &amp; TOOTIE (B)" pan="-330.83" skinid="ht_url" description="" target="_blank" tilt="-3.94"/>
-      <hotspot url="" id="Point06" title="ANDY &amp; TOOTIE (B)" pan="-330.78" skinid="ht_info" description="Andy &amp; Tootie (B), 32.5x32.5, &#xa;photo Bystedt, &#xa;paint chimp Tootie, 2022&#xa;&#xa;" target="" tilt="-0.36"/>
-      <hotspot url="images/Andy &amp; Tootie (B), 32.5x32.5, photo_ Bystedt, paint_ chimp Tootie, 2022.JPG" id="Point07" title="ANDY &amp; TOOTIE (B)" pan="-330.71" skinid="ht_image" description="" target="" tilt="3.05"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="ANDY &amp; TOOTIE (A)" pan="-298.46" skinid="ht_url" description="" target="_blank" tilt="-4.49"/>
-      <hotspot url="" id="Point06" title="ANDY &amp; TOOTIE (A)" pan="-298.42" skinid="ht_info" description="Andy &amp; Tootie (A), 31x31, &#xa;photo Bystedt, &#xa;paint chimp Tootie, 2022&#xa;" target="" tilt="-0.78"/>
-      <hotspot url="images/Andy &amp; Tootie (A), 31x31, photo_ Bystedt, paint_ chimp Tootie, 2022.JPG" id="Point07" title="ANDY &amp; TOOTIE (A)" pan="-298.44" skinid="ht_image" description="" target="" tilt="2.98"/>
+    <userdata tags="210420" customnodeid="" latitude="" copyright="" info="" source="" description="" longitude="" datetime="21/04/16 8:14 PM" comment="" title="" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" enabled="1" borderradius="1" backgroundalpha="1" wordwrap="1" background="1" width="180" height="20" backgroundcolor="0xffffff" border="1" textcolor="0x000000" borderalpha="1" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-15.96" skinid="ht_node" pan="-158.55" id="Point01" target="-5.6/-0.5/70.0" description="" title="" url="{node3}"/>
+      <hotspot tilt="-11.03" skinid="ht_node" pan="-152.9" id="Point02" target="0.0/0.0/70.0" description="" title="" url="{node2}"/>
+      <hotspot tilt="-9.9" skinid="ht_node" pan="-179.96" id="Point03" target="0.0/0.0/70.0" description="" title="" url="{node6}"/>
+      <hotspot tilt="-11.72" skinid="ht_node" pan="-213.21" id="Point04" target="-13.7/0.8/70.0" description="" title="" url="{node5}"/>
+      <hotspot tilt="-4.76" skinid="ht_image" pan="-46.74" id="Point08" target="" description="" title="#2" url="images/2012_9_18.jpg"/>
+      <hotspot tilt="-7.38" skinid="ht_info" pan="-46.73" id="Point06" target="" description="Rafael Ferrer&#xa;#2, September 18, 2012&#xa;Wax crayon on paper bag&#xa;6 3/4 x 3 1/2 in&#xa;17.1 x 8.9 cm&#xa;&#xa;&#xa;" title="#2" url=""/>
+      <hotspot tilt="-9.99" skinid="ht_url" pan="-46.72" id="Point05" target="_blank" description="" title="#2" url="https://www.snitzer.com/"/>
+      <hotspot tilt="-11.94" skinid="ht_url" pan="-16.6" id="Point05" target="_blank" description="" title="September 13" url="https://www.snitzer.com/"/>
+      <hotspot tilt="-9.28" skinid="ht_info" pan="-16.6" id="Point06" target="" description="Rafael Ferrer&#xa;September 13, 2012&#xa;Wax crayon, gouache, and collage on paper bag&#xa;14 x 12 in&#xa;35.6 x 30.5 cm&#xa;&#xa;" title="September 13" url=""/>
+      <hotspot tilt="-6.56" skinid="ht_image" pan="-16.63" id="Point08" target="" description="" title="September 13" url="images/2012_9_13Grpt.jpg"/>
+      <hotspot tilt="-10.82" skinid="ht_url" pan="-10.22" id="Point05" target="_blank" description="" title="San Francisco" url="https://www.snitzer.com/"/>
+      <hotspot tilt="-8.08" skinid="ht_info" pan="-10.21" id="Point06" target="" description="Rafael Ferrer&#xa;San Francisco, July 8, 1975&#xa;Pastel and color pencil on paper bag&#xa;8 x 4 1/2 in&#xa;20.3 x 11.4 cm&#xa;&#xa;&#xa;" title="San Francisco" url=""/>
+      <hotspot tilt="-5.29" skinid="ht_image" pan="-10.23" id="Point08" target="" description="" title="San Francisco" url="images/1975_7_8SanFran.jpg"/>
+      <hotspot tilt="-13.55" skinid="ht_url" pan="-326.49" id="Point05" target="_blank" description="" title="SIZZLING" url="https://www.snitzer.com/"/>
+      <hotspot tilt="-9.6" skinid="ht_info" pan="-326.61" id="Point06" target="" description="Tomas Esson&#xa;SIZZLING , 2023&#xa;Oil on Linen &#xa;80 x 96 in&#xa;203.2 x 243.8 cm&#xa;&#xa;" title="SIZZLING" url=""/>
+      <hotspot tilt="-5.86" skinid="ht_image" pan="-326.6" id="Point08" target="" description="" title="SIZZLING" url="images/DSC07549.jpg"/>
+      <hotspot tilt="-12.18" skinid="ht_url" pan="-24.65" id="Point05" target="_blank" description="" title="#11" url="https://www.snitzer.com/"/>
+      <hotspot tilt="-9.41" skinid="ht_info" pan="-24.63" id="Point06" target="" description="Rafael Ferrer&#xa;#11, 2008&#xa;Gouache and color pencil on paper bag&#xa;16 1/2 x 9 3/4 in 41.9 x 24.8 cm&#xa;&#xa;" title="#11" url=""/>
+      <hotspot tilt="-6.75" skinid="ht_image" pan="-24.63" id="Point08" target="" description="" title="#11" url="images/image001 (2).jpg"/>
+      <hotspot tilt="-12.33" skinid="ht_url" pan="-33.03" id="Point05" target="_blank" description="" title="January 2 #2" url="https://www.snitzer.com/"/>
+      <hotspot tilt="-9.69" skinid="ht_info" pan="-33.01" id="Point06" target="" description="Rafael Ferrer&#xa;January 2 #2, 1973&#xa;Wax crayon on paper bag&#xa;16 x 7 3/4 in&#xa;40.6 x 19.7 cm&#xa;" title="January 2 #2" url=""/>
+      <hotspot tilt="-7.04" skinid="ht_image" pan="-32.98" id="Point08" target="" description="" title="January 2 #2" url="images/image (21).jpg"/>
+      <hotspot tilt="-11.28" skinid="ht_url" pan="-40.95" id="Point05" target="_blank" description="" title="August 26" url="https://www.snitzer.com/"/>
+      <hotspot tilt="-8.58" skinid="ht_info" pan="-40.95" id="Point06" target="" description="Rafael Ferrer&#xa;August 26, 1976&#xa;Wax pencil on paper bag&#xa;12 x 8 1/2 in&#xa;30.5 x 21.6 cm&#xa;" title="August 26" url=""/>
+      <hotspot tilt="-5.9" skinid="ht_image" pan="-40.97" id="Point08" target="" description="" title="August 26" url="images/1976_8_26.jpg"/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" blendtime="1" zoomout="0" softedge="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control hideabout="0" sensitivity="8" simulatemass="1" contextfullscreen="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+    <transition zoomspeed="2" softedge="0" blendcolor="0x000000" enabled="1" blendtime="1" zoomout="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedkeyboard="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
   </panorama>
   <panorama id="node5">
-    <input levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3072" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" width="3072">
-      <level predecode="0" height="3072" preload="0" width="3072"/>
-      <level predecode="0" height="1536" preload="0" width="1536"/>
-      <level predecode="0" height="768" preload="0" width="768"/>
-      <level predecode="1" height="384" preload="1" width="384"/>
+    <input levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3072" height="3072" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level preload="0" predecode="0" width="3072" height="3072"/>
+      <level preload="0" predecode="0" width="1536" height="1536"/>
+      <level preload="0" predecode="0" width="768" height="768"/>
+      <level preload="1" predecode="1" width="384" height="384"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start fov="70" pan="0" projection="4" tilt="0"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" fovfisheye="360" tilt="90"/>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
     </view>
-    <userdata customnodeid="" latitude="" author="" comment="" title="" info="" description="" source="" tags="210420" copyright="" longitude="" datetime="21/04/20 1:57 PM"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label borderradius="1" border="1" textalpha="1" background="1" enabled="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180"/>
-      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
-      <hotspot url="{node4}" id="Point01" title="" pan="-152.78" skinid="ht_node" description="" target="10.1/0.2/70.0" tilt="-23.28"/>
-      <hotspot url="{node3}" id="Point02" title="" pan="-208.77" skinid="ht_node" description="" target="-5.7/-0.1/70.0" tilt="-14.54"/>
-      <hotspot url="{node6}" id="Point03" title="" pan="-255.34" skinid="ht_node" description="" target="0.0/0.0/70.0" tilt="-17.42"/>
-      <hotspot url="{node2}" id="Point04" title="" pan="-237.31" skinid="ht_node" description="" target="0.0/0.0/70.0" tilt="-12.53"/>
-      <hotspot url="{node1}" id="Point05" title="" pan="-240.54" skinid="ht_node" description="" target="0.0/0.0/70.0" tilt="-5.85"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="VANQUISH" pan="-49.02" skinid="ht_url" description="" target="_blank" tilt="-3.37"/>
-      <hotspot url="" id="Point06" title="VANQUISH" pan="-49.01" skinid="ht_info" description="Vanquish, &#xa;16x20 by chimp Connor 2024&#xa;" target="" tilt="0.13"/>
-      <hotspot url="images/Vanquish, 16x20 by chimp Connor 2024.JPG" id="Point07" title="VANQUISH" pan="-48.99" skinid="ht_image" description="" target="" tilt="3.82"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="VANTAGE" pan="-35.39" skinid="ht_url" description="" target="_blank" tilt="-2.92"/>
-      <hotspot url="" id="Point06" title="VANTAGE" pan="-35.42" skinid="ht_info" description="Vantage, &#xa;18x24 by chimp Dylan 2024&#xa;&#xa;" target="" tilt="0.48"/>
-      <hotspot url="images/Vantage, 18x24 by chimp Dylan 2024.JPG" id="Point07" title="VANTAGE" pan="-35.44" skinid="ht_image" description="" target="" tilt="3.78"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="VALKYRIE" pan="-24.45" skinid="ht_url" description="" target="_blank" tilt="-2.11"/>
-      <hotspot url="" id="Point06" title="VALKYRIE" pan="-24.44" skinid="ht_info" description="Valkyrie, &#xa;16x20 by chimps Lisa &amp; Janice 2024&#xa;&#xa;" target="" tilt="1.04"/>
-      <hotspot url="images/Valkyrie, 16x20 by chimps Lisa &amp; Janice 2024.JPG" id="Point07" title="VALKYRIE" pan="-24.43" skinid="ht_image" description="" target="" tilt="4.18"/>
-      <hotspot url="images/Sea Horses Sailin', 36x36 by Kate Pierson + chimp Sable 2023.jpg" id="Point07" title="SEA HORSES SAILIN" pan="-354.26" skinid="ht_image" description="" target="" tilt="1.53"/>
-      <hotspot url="" id="Point06" title="SEA HORSES SAILIN" pan="-354.23" skinid="ht_info" description="Sea Horses Sailin',&#xa;36x36 by Kate Pierson + chimp Sable 2023&#xa;" target="" tilt="-1.6"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="SEA HORSES SAILIN" pan="-354.2" skinid="ht_url" description="" target="_blank" tilt="-4.86"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="DETOUR THRU YOUR MIND" pan="-320.74" skinid="ht_url" description="" target="_blank" tilt="-4.66"/>
-      <hotspot url="" id="Point06" title="DETOUR THRU YOUR MIND" pan="-320.67" skinid="ht_info" description="Detour Thru Your Mind, &#xa;36x36 by Fred Schneider + chimp Dylan 2023&#xa;" target="" tilt="-1.03"/>
-      <hotspot url="images/Detour Thru Your Mind, 36x36 by Fred Schneider + chimp Dylan 2023.jpeg" id="Point07" title="DETOUR THRU YOUR MIND" pan="-320.82" skinid="ht_image" description="" target="" tilt="2.53"/>
+    <userdata tags="210420" customnodeid="" latitude="" copyright="" info="" source="" description="" longitude="" datetime="21/04/20 1:57 PM" comment="" title="" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" enabled="1" borderradius="1" backgroundalpha="1" wordwrap="1" background="1" width="180" height="20" backgroundcolor="0xffffff" border="1" textcolor="0x000000" borderalpha="1" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-23.28" skinid="ht_node" pan="-152.78" id="Point01" target="10.1/0.2/70.0" description="" title="" url="{node4}"/>
+      <hotspot tilt="-14.54" skinid="ht_node" pan="-208.77" id="Point02" target="-5.7/-0.1/70.0" description="" title="" url="{node3}"/>
+      <hotspot tilt="-17.42" skinid="ht_node" pan="-255.34" id="Point03" target="0.0/0.0/70.0" description="" title="" url="{node6}"/>
+      <hotspot tilt="-12.53" skinid="ht_node" pan="-237.31" id="Point04" target="0.0/0.0/70.0" description="" title="" url="{node2}"/>
+      <hotspot tilt="-5.85" skinid="ht_node" pan="-240.54" id="Point05" target="0.0/0.0/70.0" description="" title="" url="{node1}"/>
+      <hotspot tilt="-15.05" skinid="ht_url" pan="-42.13" id="Point05" target="_blank" description="" title="Teu Canto é uma Nuvem de Vozes " url="https://www.snitzer.com/"/>
+      <hotspot tilt="-12.05" skinid="ht_info" pan="-42.1" id="Point06" target="" description="assume vivid astro focus&#xa;Teu Canto é uma Nuvem de Vozes (Your Chant is a Cloud of Voices), 2020&#xa;Handmade tapestry in dyed alpaca wool&#xa;(VIVID32 65)&#xa;" title="Teu Canto é uma Nuvem de Vozes " url=""/>
+      <hotspot tilt="-9.07" skinid="ht_image" pan="-42.1" id="Point08" target="" description="" title="Teu Canto é uma Nuvem de Vozes " url="images/VIVID32-65-image.jpg"/>
+      <hotspot tilt="-8.13" skinid="ht_url" pan="-357.58" id="Point05" target="_blank" description="" title="A World of Utopias II" url="https://www.snitzer.com/"/>
+      <hotspot tilt="-5.23" skinid="ht_info" pan="-357.52" id="Point06" target="" description="Marielle Plaisir&#xa;A World of Utopias II, 2023&#xa;Mixed media, Acrylic on canvas&#xa;48 x 48 in&#xa;121.9 x 121.9 cm&#xa;(2)" title="A World of Utopias II" url=""/>
+      <hotspot tilt="-2.28" skinid="ht_image" pan="-357.45" id="Point08" target="" description="" title="A World of Utopias II" url="images/DSC03993.jpg"/>
+      <hotspot tilt="-11.03" skinid="ht_url" pan="-324.93" id="Point05" target="_blank" description="" title="When I See You " url="https://www.snitzer.com/"/>
+      <hotspot tilt="-7.9" skinid="ht_info" pan="-324.97" id="Point06" target="" description="Emilio Perez&#xa;When I See You , 2022&#xa;Oil on linen &#xa;70 x 66 in&#xa;177.8 x 167.6 cm &#xa;" title="When I See You " url=""/>
+      <hotspot tilt="-4.85" skinid="ht_image" pan="-324.97" id="Point08" target="" description="" title="When I See You " url="images/WHEN_I_SEE_YOU_1  copy.jpg"/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" blendtime="1" zoomout="0" softedge="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control hideabout="0" sensitivity="8" simulatemass="1" contextfullscreen="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+    <transition zoomspeed="2" softedge="0" blendcolor="0x000000" enabled="1" blendtime="1" zoomout="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedkeyboard="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
   </panorama>
   <panorama id="node6">
-    <input levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3072" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" width="3072">
-      <level predecode="0" height="3072" preload="0" width="3072"/>
-      <level predecode="0" height="1536" preload="0" width="1536"/>
-      <level predecode="0" height="768" preload="0" width="768"/>
-      <level predecode="1" height="384" preload="1" width="384"/>
+    <input levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3072" height="3072" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level preload="0" predecode="0" width="3072" height="3072"/>
+      <level preload="0" predecode="0" width="1536" height="1536"/>
+      <level preload="0" predecode="0" width="768" height="768"/>
+      <level preload="1" predecode="1" width="384" height="384"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start fov="70" pan="0" projection="4" tilt="0"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" fovfisheye="360" tilt="90"/>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
     </view>
-    <userdata customnodeid="" latitude="" author="" comment="" title="" info="" description="" source="" tags="210420" copyright="" longitude="" datetime="21/04/20 2:02 PM"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label borderradius="1" border="1" textalpha="1" background="1" enabled="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180"/>
-      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
-      <hotspot url="{node2}" id="Point02" title="" pan="-288.67" skinid="ht_node" description="" target="0.0/0.0/70.0" tilt="-20.29"/>
-      <hotspot url="{node3}" id="Point03" title="" pan="-226.42" skinid="ht_node" description="" target="-5.7/-0.5/70.0" tilt="-23.86"/>
-      <hotspot url="{node4}" id="Point04" title="" pan="-160.96" skinid="ht_node" description="" target="10.1/-0.0/70.0" tilt="-16.64"/>
-      <hotspot url="{node5}" id="Point05" title="" pan="-104.95" skinid="ht_node" description="" target="-13.1/0.4/70.0" tilt="-20.82"/>
-      <hotspot url="{node1}" id="Point01" title="" pan="-295.35" skinid="ht_node" description="" target="0.0/0.0/70.0" tilt="-8.52"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="DETOUR THRU YOUR MIND" pan="-51.5" skinid="ht_url" description="" target="_blank" tilt="-4.49"/>
-      <hotspot url="" id="Point06" title="DETOUR THRU YOUR MIND" pan="-51.44" skinid="ht_info" description="Detour Thru Your Mind, &#xa;36x36 by Fred Schneider + chimp Dylan 2023&#xa;" target="" tilt="-1.36"/>
-      <hotspot url="images/Detour Thru Your Mind, 36x36 by Fred Schneider + chimp Dylan 2023.jpeg" id="Point07" title="DETOUR THRU YOUR MIND" pan="-51.4" skinid="ht_image" description="" target="" tilt="2.14"/>
-      <hotspot url="images/Mesopotamia, 30x30 by Fred Schneider + chimp Sable 2023.jpg" id="Point07" title="MESOPOTAMIA" pan="-18.18" skinid="ht_image" description="" target="" tilt="3.21"/>
-      <hotspot url="" id="Point06" title="MESOPOTAMIA" pan="-18.17" skinid="ht_info" description="Mesopotamia, &#xa;30x30 by Fred Schneider + chimp Sable 2023" target="" tilt="-0.06"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="MESOPOTAMIA" pan="-18.22" skinid="ht_url" description="" target="_blank" tilt="-3.39"/>
-      <hotspot url="images/Valour, 16x20 by chimps April &amp; Kramer 2024.JPG" id="Point07" title="VALOUR" pan="-341.57" skinid="ht_image" description="" target="" tilt="2.57"/>
-      <hotspot url="" id="Point06" title="VALOUR" pan="-341.58" skinid="ht_info" description="Valour, &#xa;16x20 by chimps April &amp; Kramer 2024" target="" tilt="0"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="VALOUR" pan="-341.61" skinid="ht_url" description="" target="_blank" tilt="-2.47"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point05" title="VALHALLA" pan="-328.44" skinid="ht_url" description="" target="_blank" tilt="-2.49"/>
-      <hotspot url="" id="Point06" title="VALHALLA" pan="-328.44" skinid="ht_info" description="Valhalla, &#xa;18x24 by chimp Kramer 2024" target="" tilt="0.13"/>
-      <hotspot url="images/Valhalla, 18x24 by chimp Kramer 2024.JPG" id="Point07" title="VALHALLA" pan="-328.45" skinid="ht_image" description="" target="" tilt="2.69"/>
-      <hotspot url="" id="Point05" title="INTERSPECIES" pan="-259.46" skinid="ht_info" description="Acerca de Salvar a los chimpancés:&#xa;&#xa;Con sede en Florida, Save the Chimps es uno de los santuarios de chimpancés más grandes del mundo, cuya misión es brindar refugio y atención ejemplar a los chimpancés necesitados. Save the Chimps ofrece atención de por vida a chimpancés rescatados de laboratorios de investigación, el comercio de mascotas y la industria del entretenimiento. www.savethechimps.org.&#xa;&#xa;Colaboración artística entre los B-52 y Save The Chimps:&#xa;&#xa;Los miembros de la banda Kate Pierson , Fred Schneider y Cindy Wilson colaboraron con Save The Chimps y artistas chimpancés del refugio de 150 acres en Florida para crear una colección de pinturas basadas en los colores vivos de las portadas de los álbumes más populares de la banda. Kate y sus compañeros de banda pintan los lienzos base con varios colores de fondo y seleccionan las combinaciones de colores para que los chimpancés terminen cada obra de arte con su propio estilo de pincelada durante su tiempo libre. Cada pieza de la nueva colección de obras lleva el nombre de una canción o letra de B-52 y está firmada por los miembros de la banda." target="" tilt="-1.95"/>
-      <hotspot url="https://savethechimps.org/astonmartin" id="Point09" title="SAVE THE CHIMPS" pan="-259.37" skinid="ht_url" description="" target="_blank" tilt="-6.01"/>
+    <userdata tags="210420" customnodeid="" latitude="" copyright="" info="" source="" description="" longitude="" datetime="21/04/20 2:02 PM" comment="" title="" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" enabled="1" borderradius="1" backgroundalpha="1" wordwrap="1" background="1" width="180" height="20" backgroundcolor="0xffffff" border="1" textcolor="0x000000" borderalpha="1" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-20.29" skinid="ht_node" pan="-288.67" id="Point02" target="0.0/0.0/70.0" description="" title="" url="{node2}"/>
+      <hotspot tilt="-23.86" skinid="ht_node" pan="-226.42" id="Point03" target="-5.7/-0.5/70.0" description="" title="" url="{node3}"/>
+      <hotspot tilt="-16.64" skinid="ht_node" pan="-160.96" id="Point04" target="10.1/-0.0/70.0" description="" title="" url="{node4}"/>
+      <hotspot tilt="-20.82" skinid="ht_node" pan="-104.95" id="Point05" target="-13.1/0.4/70.0" description="" title="" url="{node5}"/>
+      <hotspot tilt="-8.52" skinid="ht_node" pan="-295.35" id="Point01" target="0.0/0.0/70.0" description="" title="" url="{node1}"/>
+      <hotspot tilt="-6.04" skinid="ht_url" pan="-321.8" id="Point05" target="_blank" description="" title="Rampling" url="https://www.snitzer.com/"/>
+      <hotspot tilt="-3.83" skinid="ht_info" pan="-321.82" id="Point06" target="" description="Iva Gueorguieva&#xa;Rampling, 2016&#xa;acrylic and collage on paper mounted on canvas&#xa;30 x 24 in&#xa;76.2 x 61 cm&#xa;(IG16 31)" title="Rampling" url=""/>
+      <hotspot tilt="-1.61" skinid="ht_image" pan="-321.85" id="Point08" target="" description="" title="Rampling" url="images/IG16 31.jpg"/>
+      <hotspot tilt="-6.45" skinid="ht_url" pan="-16.95" id="Point05" target="_blank" description="" title="I'm a Wanderess" url="https://www.snitzer.com/"/>
+      <hotspot tilt="-3.58" skinid="ht_info" pan="-16.93" id="Point06" target="" description="Vickie Pierre&#xa;I'm a Wanderess, 2023&#xa;Acrylic, glitter, and decorative paper collage on canvas on panel&#xa;36 x 48 in&#xa;91.4 x 121.9 cm" title="I'm a Wanderess" url=""/>
+      <hotspot tilt="-0.68" skinid="ht_image" pan="-16.95" id="Point08" target="" description="" title="I'm a Wanderess" url="images/004.jpg"/>
+      <hotspot tilt="-10.02" skinid="ht_url" pan="-54.31" id="Point05" target="_blank" description="" title="When I See " url="https://www.snitzer.com/"/>
+      <hotspot tilt="-7.15" skinid="ht_info" pan="-54.28" id="Point06" target="" description="Emilio Perez&#xa;When I See You , 2022&#xa;Oil on linen &#xa;70 x 66 in&#xa;177.8 x 167.6 cm" title="When I See " url=""/>
+      <hotspot tilt="-4.29" skinid="ht_image" pan="-54.21" id="Point08" target="" description="" title="When I See " url="images/WHEN_I_SEE_YOU_1  copy.jpg"/>
+      <hotspot tilt="-5.17" skinid="ht_url" pan="-337.99" id="Point05" target="_blank" description="" title="Gravel Stroke" url="https://www.snitzer.com/"/>
+      <hotspot tilt="-2.85" skinid="ht_info" pan="-337.99" id="Point06" target="" description="Iva Gueorguieva&#xa;Gravel Stroke, 2016&#xa;acrylic and collage on paper mounted on canvas&#xa;30 x 20 in&#xa;76.2 x 50.8 cm&#xa;(IG16 32)" title="Gravel Stroke" url=""/>
+      <hotspot tilt="-0.52" skinid="ht_image" pan="-337.98" id="Point08" target="" description="" title="Gravel Stroke" url="images/IG16 32.jpg"/>
+      <hotspot tilt="-3.59" skinid="ht_url" pan="-259.62" id="Point05" target="_blank" description="" title="&quot;Mythic Reveries&quot;" url="https://www.snitzer.com/"/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" blendtime="1" zoomout="0" softedge="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control hideabout="0" sensitivity="8" simulatemass="1" contextfullscreen="1" speedwheel="1" contextprojections="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+    <transition zoomspeed="2" softedge="0" blendcolor="0x000000" enabled="1" blendtime="1" zoomout="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedkeyboard="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
   </panorama>
   <masternode>
-    <userdata customnodeid="" latitude="" author="" comment="" title="" info="" description="" source="" tags="" copyright="" longitude="" datetime=""/>
+    <userdata tags="" customnodeid="" latitude="" copyright="" info="" source="" description="" longitude="" datetime="" comment="" title="" author=""/>
   </masternode>
 </tour>
