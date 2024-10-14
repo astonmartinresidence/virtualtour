@@ -11,10 +11,6 @@
         <entry key="location-2" value="LOCAL_FILE:/Users/aaron/format/nikunjJavaFormattingFiles/Nikunj Checks.xml:nikunj checkstyle" />
         <entry key="scan-before-checkin" value="false" />
         <entry key="scanscope" value="JavaOnly" />
-
-
-
-        
         <entry key="suppress-errors" value="true" />
       </map>
     </option>
